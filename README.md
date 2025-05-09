@@ -1,1 +1,1 @@
-Tetris PY Games Prototipo - Faltam os sons e tela de game over
+Tetris PY Games Prototipo Jogavel - Com sons - Colocar sons em \sounds
