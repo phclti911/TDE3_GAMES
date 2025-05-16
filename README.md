@@ -1,1 +1,1 @@
-Tetris PY Games Prototipo Jogavel - Com sons - Colocar sons em \sounds e musica na pasta \music\background
+Tetris PY Games Prototipo Jogavel - Com sons - Colocar sons em \sounds e musica na pasta \music\background.ogg
